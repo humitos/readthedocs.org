@@ -40,6 +40,11 @@ extensions = [
     'notfound.extension',
     'hoverxref.extension',
 ]
+
+hoverxref_tooltip_maxwidth = 550
+hoverxref_project = 'sphinx-hoverxref-test'
+hoverxref_version = 'latest'
+
 templates_path = ['_templates']
 
 source_suffix = ['.rst', '.md']
