@@ -38,6 +38,7 @@ extensions = [
     'sphinx-prompt',
     'recommonmark',
     'notfound.extension',
+    'hoverxref.extension',
 ]
 templates_path = ['_templates']
 
